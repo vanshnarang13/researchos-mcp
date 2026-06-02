@@ -1,0 +1,9 @@
+mcp[cli]
+fastmcp
+openai
+chromadb
+sentence-transformers
+httpx
+pydantic
+python-dotenv
+torch
